@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\Desktop\\alg\\sma2_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DE6651-18B4-4A02-9F60-5A183BF06ED5}|sma2_3.pyproj|C:\\Users\\silva\\Desktop\\alg\\sma2_3\\sma2_3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8DE6651-18B4-4A02-9F60-5A183BF06ED5}|sma2_3.pyproj|solutionrelative:sma2_3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sma2_3.py",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\alg\\sma2_3\\sma2_3.py",
+              "RelativeDocumentMoniker": "sma2_3.py",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\alg\\sma2_3\\sma2_3.py",
+              "RelativeToolTip": "sma2_3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-23T18:27:19.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
